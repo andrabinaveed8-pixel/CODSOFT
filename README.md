@@ -58,7 +58,7 @@ The dataset is not included in this repository due to GitHub file size limitatio
 Dataset Source:
 Credit Card Fraud Detection Dataset – Kaggle
 
-▶ How to Run the Project
+ How to Run the Project
 
 Download the dataset from the official Kaggle source.
 
